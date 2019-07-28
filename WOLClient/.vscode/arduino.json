@@ -1,0 +1,7 @@
+{
+    "sketch": "WOL.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM7",
+    "programmer": "AVRISP mkII",
+    "output": "../ArduinoOutput"
+}
