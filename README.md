@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Arduino-Captive-Remote-WOL
-Two programs to remotely wake a PC when the latter is connected to a public network protected by a http captive portal
-=======
 # Remote Wake On Lan, through a **HTTP** Captive Portal protected network, with Arduino
 
 This was an experiment to remotely turn on my PC while it was at the dormitory, under the local protected network. Router and firewall were obviously out of reach, and everything was closed to external access.
@@ -30,4 +26,3 @@ I had underestimated the infrastructure, which some time later I saw was actuall
 The Arduino I was using (Uno/Leonardo) did **not** have the power to handle HTTPS.
 
 I ended up buying a new laptop some time later anyway.
->>>>>>> 3fca841... readme, removed ide files
